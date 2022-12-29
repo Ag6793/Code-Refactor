@@ -1,5 +1,5 @@
 
-# Code-Refactor Horiseon
+# Horiseon Refactor
 
 ## Description
 I went through and reorganized and fixed the coding.

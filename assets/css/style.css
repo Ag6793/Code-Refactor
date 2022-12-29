@@ -46,10 +46,12 @@ a {
     text-decoration: none;
 }
 
+/* Changes the font-size for all p text on the website */
 p {
     font-size: 16px;
 }
 
+/* Size and position for the main background-image for the website */
 #background-image {
     height: 800px;
     width: 100%;
@@ -59,16 +61,19 @@ p {
     background-position: center;
 }
 
+/* Positions the content blocks to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Positions the column on the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Property of the right column */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -80,28 +85,33 @@ p {
     background-color: #2589bd;
 }
 
+/* Positions content and changes all text color for the benefit-block */
 .benefit-block {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Centers and positions benefit-block text */
 .benefit-block h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Adjusts image size and display for the column on the right */
 .benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Properties for the large content boxes on the left */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Properties for each of the content-blocks */
 .content-blocks {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,15 +121,18 @@ p {
     color: #ffffff;
 }
 
+/* Adjusts image size for the content-blocks */
 .content img {
     max-height: 200px;
 }
 
+/* Size adjustments for the h2 content text */
 .content h2{
     margin-bottom:20px;
     font-size: 36px;
 }
 
+/* Footer properties */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,6 +140,7 @@ p {
     text-align: center;
 }
 
+/* Adjusts sizing for footer h2 text */
 .footer h2 {
     font-size: 20px;
 }

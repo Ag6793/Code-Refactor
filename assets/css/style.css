@@ -1,3 +1,4 @@
+/* Formats everything on the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Property for the header container */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +22,12 @@ body {
     font-size: 48px;
 }
 
+/* Changes the color for "SEO" text */
 #seo {
     color: #d9dcd6;
 }
 
+/* Properties and Position for the page title and navbar */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +45,7 @@ body {
     margin-left: 25px;
 }
 
+/* Properties of the link text */
 a {
     color: #ffffff;
     text-decoration: none;
